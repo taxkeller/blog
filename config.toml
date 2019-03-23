@@ -1,0 +1,31 @@
+baseURL = "http://example.org/"
+languageCode = "ja-jp"
+title = "ベトナム在住フリーランスの話"
+description = "ノンプログラミングで猫といっしょにいろんなものを作るがテーマ"
+theme = "onepress"
+disqusShortname = "your disqus shortname"
+copyright = "Copyright ©︎ 2019, Tasuku Kera; all rights reserved."
+canonifyURLS = true
+
+[params]
+    author = "Tasuku Kera"
+    bio = "Freelance of web developer"
+    logo = "/images/logo.jpg"
+    avatar = "/images/profile.jpg"
+    opengraphImage = ""
+    enableRSS = true
+
+    customCSS = false
+    readMore = "続きを読む"
+
+    twitter = ""
+    github = "https://github.com/taxkeller"
+    facebook = "https://www.facebook.com/tasuku.kera"
+    instagram = "https://www.instagram.com/kerariru/"
+    line = "https://line.me/R/ti/p/%40vcf9493m"
+
+    widgets = true
+
+    authorCard = true
+    shareButton = true
+    hightlightJS = true
