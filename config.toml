@@ -27,5 +27,5 @@ canonifyURLS = true
     widgets = true
 
     authorCard = true
-    shareButton = true
+    shareButton = false
     hightlightJS = true
