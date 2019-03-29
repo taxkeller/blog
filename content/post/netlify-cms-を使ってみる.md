@@ -2,7 +2,7 @@
 title: Netlify CMS を使ってみる
 date: 2019-03-28T17:01:43.690Z
 description: netlifycms
-image: /img/s_test.jpg
+thumbnail: /public/s_test.jpg
 ---
 猫はなぜPCに乗りたがるのか。。
 
